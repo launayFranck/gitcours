@@ -3,3 +3,7 @@ python
 selenium
 chrome 
 vs code
+
+1) recupèrer la bonne version de chromedriver https://www.selenium.dev/ puis https://chromedriver.chromium.org/
+rajouter l' exe et créer un folder drivers dans votre projet puis un folder chrome ici dans .\Chrome
+2) créer un folder SeleniumProject puis un fichier .py chome_driver_windows_vscode.py
