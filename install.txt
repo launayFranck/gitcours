@@ -1,0 +1,5 @@
+installation de l'environnement suivant :
+python 
+selenium
+chrome 
+vs code
