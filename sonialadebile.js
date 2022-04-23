@@ -1,1 +1,0 @@
-alert("attention grosse debile en vu")
