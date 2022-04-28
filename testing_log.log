@@ -1,0 +1,11 @@
+2022-04-28 14:32:07,059 -- root -- INFO -- ouverture de chromeDriver
+2022-04-28 14:32:08,192 -- root -- INFO -- driver ok!
+2022-04-28 14:32:09,842 -- root -- INFO -- ouverture de testing.bzh
+2022-04-28 14:32:10,599 -- root -- WARNING -- oups ca ne va pas le faire
+2022-04-28 14:33:44,465 -- root -- INFO -- ouverture de chromeDriver
+2022-04-28 14:33:45,581 -- root -- INFO -- driver ok!
+2022-04-28 14:33:47,070 -- root -- INFO -- ouverture de testing.bzh
+2022-04-28 14:33:47,821 -- root -- WARNING -- oups ca ne va pas le faire
+2022-04-28 14:34:54,193 -- root -- INFO -- ouverture de chromeDriver
+2022-04-28 14:34:55,300 -- root -- INFO -- driver ok!
+2022-04-28 14:34:57,804 -- root -- INFO -- ouverture de testing.bzh
