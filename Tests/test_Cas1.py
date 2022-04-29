@@ -25,12 +25,13 @@ class Testingbzh(unittest.TestCase):
             self.driver = webdriver.Chrome(executable_path=r"C:\Users\launa\OneDrive\VsCode_Python\chromedriver\chromedriver.exe")
 # si problème alors message critique dans le ficher       
         except:
-            logging.critical('attention le driver ,n\'pas configuré')
+            logging.critical('attention le driver ,n\'pas configure')
 # sinon info sur le bon fonctionnent du driver
         else:logging.info('driver ok!')   
         self.driver.base_url = "https://testing.bzh"
-        self.driver.verificationErrors = []
-        self.driver.accept_next_alert = True
+        logging.info('le site est ouvert')
+       # self.driver.verificationErrors = []
+       # self.driver.accept_next_alert = True
         self.driver.maximize_window()
         self.driver.implicitly_wait(30) 
 
