@@ -9,3 +9,17 @@
 2022-04-28 14:34:54,193 -- root -- INFO -- ouverture de chromeDriver
 2022-04-28 14:34:55,300 -- root -- INFO -- driver ok!
 2022-04-28 14:34:57,804 -- root -- INFO -- ouverture de testing.bzh
+2022-04-29 08:38:24,559 -- root -- INFO -- ouverture de chromeDriver
+2022-04-29 08:38:27,899 -- root -- CRITICAL -- attention le driver ,n'pas configuré
+2022-04-29 08:40:08,852 -- root -- INFO -- ouverture de chromeDriver
+2022-04-29 08:40:12,200 -- root -- CRITICAL -- attention le driver ,n'pas configuré
+2022-04-29 08:41:02,449 -- root -- INFO -- ouverture de chromeDriver
+2022-04-29 08:41:05,803 -- root -- CRITICAL -- attention le driver ,n'pas configuré
+2022-04-29 08:45:09,942 -- root -- INFO -- ouverture de chromeDriver
+2022-04-29 08:45:13,254 -- root -- CRITICAL -- attention le driver ,n'pas configuré
+2022-04-29 08:46:32,528 -- root -- INFO -- ouverture de chromeDriver
+2022-04-29 08:46:35,850 -- root -- CRITICAL -- attention le driver ,n'pas configuré
+2022-04-29 08:48:50,555 -- root -- INFO -- ouverture de chromeDriver
+2022-04-29 08:48:52,050 -- root -- INFO -- driver ok!
+2022-04-29 08:48:54,565 -- root -- INFO -- ouverture de testing.bzh
+2022-04-29 08:48:55,746 -- root -- INFO -- assert Audit & Conseil ok!
